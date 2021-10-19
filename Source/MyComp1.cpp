@@ -50,7 +50,7 @@ void MyComp1::resized()
     // components that your component contains..
 
 }
- void MyComp1::mouseDoubleClick(<#const MouseEvent &event#>)
-{
-     name="hhh";
- }
+ //void MyComp1::mouseDoubleClick(<#const MouseEvent &event#>)
+//{
+     //name="hhh";
+ //}
