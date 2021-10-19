@@ -5,8 +5,7 @@
 class NewProjectApplication  : public juce::JUCEApplication
 {
 public:
-    
-    
+    //hjjhhj
     
     //==============================================================================
    
